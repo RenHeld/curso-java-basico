@@ -9,7 +9,7 @@ package com.loiane.cursojava.aula52.labs;
  *
  * @author loiane
  */
-public class AgendaCheiaExeption extends Exception {
+public class AgendaCheiaException extends Exception {
 
     @Override
     public String getMessage() {
